@@ -2,7 +2,7 @@ Em construção!<br>
 
 ![ezgif-2-e23ffc44b9](https://user-images.githubusercontent.com/104470835/230646906-bee56887-06db-437d-be0e-e370f9b2cadb.gif)
 
-![Snake animation](https://github.com/seu-usuário-aqui/wendersoon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wendersoon/wendersoon/blob/output/github-contribution-grid-snake.svg)
 
 Hello, I'm glad you're here. Welcome to my github profile!
 
@@ -15,7 +15,5 @@ This is my github, here you will find the projects I worked on or am currently w
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-# Ferramentas e Tecnologias
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
