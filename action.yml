@@ -1,0 +1,15 @@
+name: Display repositories
+on:
+  push:
+jobs:
+  show_repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Display repositories as a marquee
+        run: |
+          while read -r line; do
+            echo -n "$line "
+            sleep 1
+          done < repositories.txt
