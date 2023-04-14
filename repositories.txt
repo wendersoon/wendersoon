@@ -1,1 +1,4 @@
-
+ServerOn https://github.com/wendersoon/ServerOn
+Data_Science https://github.com/wendersoon/Data_Science
+AlgoritmoGenetico https://github.com/wendersoon/AlgoritmoGenetico
+sistema_NFS https://github.com/wendersoon/sistema_NFS
