@@ -6,12 +6,3 @@ This is my github, here you will find the projects I worked on or am currently w
 
 ![Snake animation](https://github.com/wendersoon/wendersoon/blob/output/github-contribution-grid-snake.svg)
 
-
-<div>
-<a href="https://github.com/wendersoon">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-
-          
