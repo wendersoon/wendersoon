@@ -1,4 +1,3 @@
-
 Hello, I'm glad you're here. Welcome to my github profile!
 
 My name is Wenderson, I'm a Computer Science student and I'm already in the 7th period. I really like areas related to technology and mathematics, I'm a python programmer and I'm constantly learning new things.
@@ -6,3 +5,10 @@ This is my github, here you will find the projects I worked on or am currently w
 
 ![Snake animation](https://github.com/wendersoon/wendersoon/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  
+**VISITORS**
+
+<img src="https://profile-counter.glitch.me/{wendersoon}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+
+</div>
