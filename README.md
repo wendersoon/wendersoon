@@ -7,6 +7,6 @@ This is my github, here you will find the projects I worked on or am currently w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 
 </div>
