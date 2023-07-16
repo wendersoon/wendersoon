@@ -6,9 +6,7 @@ This is my github, here you will find the projects I worked on or am currently w
 ![Snake animation](https://github.com/wendersoon/wendersoon/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  
-**VISITORS**
 
-<img src="https://profile-counter.glitch.me/{wendersoon}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 </div>
