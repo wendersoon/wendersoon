@@ -29,10 +29,10 @@ This is my github, here you will find the projects I worked on or am currently w
 
 
 <p align="center">
-    <a target="_blank" href="https://github.com/Elvis-Almeida">
+    <a target="_blank" href="https://github.com/wendersoon">
        <img src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
     </a>
-    <a target="_blank" href="https://github.com/Elvis-Almeida">
+    <a target="_blank" href="https://github.com/wendersoon">
         <img align="center" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
     </a>
 </p>
