@@ -13,9 +13,6 @@ This is my github, here you will find the projects I worked on or am currently w
     <a target="_blank" href="https://www.djangoproject.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" class="devicon-django-plain-wordmark"  alt="Python" width="40" height="40"/>
     </a>
-    <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/L">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
     <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
     </a>
@@ -46,7 +43,10 @@ This is my github, here you will find the projects I worked on or am currently w
     </a>
        <a target="_blank" href="https://aws.amazon.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="vscode" width="40" height="40"/>
-     </a>
+     </a> 
+     <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/L">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
      </p>
 
 
