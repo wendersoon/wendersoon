@@ -1,11 +1,15 @@
 
 
 
-Hello, I'm glad you're here. Welcome to my github profile! 
+I'm a Python developer with 2 years of experience, currently working at 9talk Agency. My core skills include Python, Django, Django ORM, MySQL, Git and CI/CD. I have experience in automating internal processes using RPA and integrations between APIs, such as Bling, Agendor and Xibo.
 
+I have knowledge in other technologies, such as JavaScript, Golang, HTML, CSS, Flask, SQL, PostgreSQL, AWS, and libraries such as Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn.
 
-My name is Wenderson, I'm a Computer Science student and I'm already in the 8th period. I really like areas related to technology and mathematics, I'm a python programmer and I'm constantly learning new things.
-This is my github, here you will find the projects I worked on or am currently working on, feel free to explore and send me a message if you like. I'm open to suggestions and criticism :)
+I have a degree in Computer Science from the Federal Institute of Maranhão and I have intermediate knowledge of English, as well as basic notions of Spanish and Japanese.
+
+I am constantly looking to improve my skills and contribute to challenging projects. I am available for opportunities that can add value and provide professional growth.
+
+Thanks for visiting my GitHub profile. If you want to know more about [my work](https://portfyhub.com/see/wenderson) or get in touch, feel free to send me a message.
 <p align="center">
     <a target="_blank" href="https://python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
