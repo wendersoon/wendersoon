@@ -1,7 +1,7 @@
 
 
 
-I'm a Python developer with 2 years of experience. My core skills include Python, Django, Django ORM, MySQL, Git and CI/CD. I have experience in automating internal processes using RPA and integrations between APIs, such as Bling, Agendor and Xibo.
+I'm a Python fullstack developer with 2 years of experience. My core skills include Python, Django, Django ORM, MySQL, Git and CI/CD. I have experience in automating internal processes using RPA and integrations between APIs, such as Bling, Agendor and Xibo.
 
 I have knowledge in other technologies, such as JavaScript, Golang, HTML, CSS, Flask, SQL, PostgreSQL, AWS, and libraries such as Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn.
 
