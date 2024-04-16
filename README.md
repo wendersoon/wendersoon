@@ -9,48 +9,10 @@ I'm excited to apply my passion for technology and dedication to continuous lear
 
 Thanks for visiting my GitHub profile.
 <p align="center">
-    <a target="_blank" href="https://python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://www.djangoproject.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" class="devicon-django-plain-wordmark"  alt="Python" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://getbootstrap.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="vscode" width="40" height="40"/>
-     </a>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    </a>
-     <a target="_blank" href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-     </a>
-    <a target="_blank" href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-     </a>
-    <a target="_blank" href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="vscode" width="40" height="40"/>
-     </a>
-       <a target="_blank" href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="vscode" width="40" height="40"/>
-     </a>
-    </a>
-       <a target="_blank" href="https://aws.amazon.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="vscode" width="40" height="40"/>
-     </a> 
-     <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/L">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-     </p>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,javascript,c,css,html,django,flask,git,docker,mysql,postgres,redis,sqlite,nginx,jquery,ubuntu,linux,github,vscode,bash,sklearn" />
+  </a>
+</p>
 
 <p align="center">
     <a target="_blank" href="https://github.com/wendersoon">
