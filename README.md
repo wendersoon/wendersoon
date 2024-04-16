@@ -1,15 +1,13 @@
 
 
 
-I'm a Python fullstack developer with 2 years of experience. My core skills include Python, Django, Django ORM, MySQL, Git and CI/CD. I have experience in automating internal processes using RPA and integrations between APIs, such as Bling, Agendor and Xibo.
+I am a Computer Science student scheduled to graduate in the first semester of 2024. I have expertise in Python, supported by two years of practical experience in personal and freelance projects. My constant commitment to excellence is reflected not only in the application of knowledge in Python, but also in the Javascript and Golang languages.
 
-I have knowledge in other technologies, such as JavaScript, Golang, HTML, CSS, Flask, SQL, PostgreSQL, AWS, and libraries such as Numpy, Pandas, Matplotlib, Seaborn and Scikit-learn.
+My proficiency extends to GNU/Linux environments, GIT for version control, API concepts, database manipulation and much more. I am also deeply involved in the active study of Clean Architecture and Clean Code concepts, aiming to constantly optimize the quality of my work.
 
-I have a degree in Computer Science from the Federal Institute of Maranhão and I have intermediate knowledge of English, as well as basic notions of Spanish and Japanese.
+I'm excited to apply my passion for technology and dedication to continuous learning to deliver great work, looking forward to taking on challenges and adding significant value in future professional opportunities.
 
-I am constantly looking to improve my skills and contribute to challenging projects. I am available for opportunities that can add value and provide professional growth.
-
-Thanks for visiting my GitHub profile. If you want to know more about [my work](https://portfyhub.com/see/wenderson) or get in touch, feel free to send me a message.
+Thanks for visiting my GitHub profile.
 <p align="center">
     <a target="_blank" href="https://python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
