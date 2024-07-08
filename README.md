@@ -15,6 +15,9 @@ I am a Computer Science student with experience in Python, Javascript and Golang
 
 <p align="center">
     <a target="_blank" href="https://github.com/wendersoon">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon&layout=compact&theme=gotham" alt="github stats" width="45%" align="center"/>
+    </a>
+    <a target="_blank" href="https://github.com/wendersoon">
        <img src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
     </a>
 </p>
