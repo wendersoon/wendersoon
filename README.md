@@ -5,7 +5,6 @@
 </p>
 
 
-
 I am a Computer Science student with experience in Python, Javascript and Golang. I have practical experience in personal and freelance projects. I am also proficient in GNU/Linux environments, GIT, API concepts and database manipulation. I actively study the principles of Clean Architecture and Clean Code to optimize the quality of my work. I'm excited to apply my passion for technology and continuous learning to future professional opportunities.
 <p align="center">
   <a href="https://skillicons.dev">
