@@ -6,7 +6,7 @@
 
 * 📚 I have a degree in Computer Science
 * 👨‍💻 I have 3 years of development experience
-* 📝 Most of my projects are available on Github
+* 📝 Most of my projects are available on [Github](https://github.com/wendersoon?tab=repositories)
 * 💪 I like challenges
 * ❤️ I love technology and learning new things
 * ⭐ I'm passionate about mathematics, logic and philosophy
