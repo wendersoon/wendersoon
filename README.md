@@ -14,7 +14,7 @@
 ### Contacts
 
 
-<a href="https://www.linkedin.com/in/wendersonomelo/"> 
+<a href="https://www.linkedin.com/in/wendersonomelo/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
   
