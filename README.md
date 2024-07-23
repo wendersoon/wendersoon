@@ -1,31 +1,51 @@
-<h1 align="center">Hi there, I'm Wenderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A Backend Developer from Brazil</h3>
+<h1>Hi there, I'm Wenderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h3>A Backend Developer from Brazil</h3>
 
 
 ### ABOUT ME
 
 * 📚 I have a degree in Computer Science
 * 👨‍💻 I have 3 years of development experience
+* 📝 Most of my projects are available on Github
 * 💪 I like challenges
 * ❤️ I love technology and learning new things
 * ⭐ I'm passionate about mathematics, logic and philosophy
 * 💬 Ask me about anything tech related, I am happy to help
-
-### Contacts
-
-
-<a href="https://www.linkedin.com/in/wendersonomelo/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+* 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/wendersonomelo/)
+ 
   
+### Languages:
 
-### 
-I am a Computer Science student with experience in Python, Javascript and Golang. I have practical experience in personal and freelance projects. I am also proficient in GNU/Linux environments, GIT, API concepts and database manipulation. I actively study the principles of Clean Architecture and Clean Code to optimize the quality of my work. I'm excited to apply my passion for technology and continuous learning to future professional opportunities.
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,javascript,c,css,html,django,flask,git,docker,mysql,postgres,redis,sqlite,nginx,jquery,ubuntu,linux,github,vscode,bash,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,go,javascript,css,html" />
   </a>
 </p>
+
+### Frameworks and Libraries
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,jquery,sklearn" />
+  </a>
+</p>
+
+### Databases
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite" />
+  </a>
+</p>
+
+### Other Tools
+
+<p ">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,nginx,ubuntu,linux,github,vscode" />
+  </a>
+</p>
+
+<hr>
 
 <p align="center">
     <a target="_blank" href="https://github.com/wendersoon">
