@@ -41,7 +41,7 @@
 
 <p ">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,nginx,ubuntu,linux,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,nginx,ubuntu,linux,github,vscode" />
   </a>
 </p>
 
