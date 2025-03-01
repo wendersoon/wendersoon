@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Wenderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3>A Backend Developer from Brazil</h3>
+<h3>A Full Stack Developer from Brazil</h3>
 
 
 ### ABOUT ME
