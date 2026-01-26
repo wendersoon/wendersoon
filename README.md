@@ -25,7 +25,7 @@
 ### Frameworks and Libraries
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,jquery,sklearn" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,django,flask,fastapi" />
   </a>
 </p>
 
