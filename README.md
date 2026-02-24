@@ -6,7 +6,7 @@
 
 * 📚 I have a degree in Computer Science
 * 👨‍💻 I have 3 years of development experience
-* 📝 Most of my projects are available on [Github](https://github.com/wendersoon?tab=repositories)
+* 📝 Some of my projects are available at [Github](https://github.com/wendersoon?tab=repositories)
 * 💪 I like challenges
 * ❤️ I love technology and learning new things
 * ⭐ I'm passionate about mathematics, logic and philosophy
@@ -45,15 +45,8 @@
   </a>
 </p>
 
-<hr>
 
-<p align="center">
-    <a target="_blank" href="https://github.com/wendersoon">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersoon&layout=compact&theme=gotham" alt="github stats" width="45%" align="center"/>
-    </a>
-    <a target="_blank" href="https://github.com/wendersoon">
-       <img src="https://github-readme-stats.vercel.app/api?username=wendersoon&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
-    </a>
-</p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wendersoon&theme=algolia" alt="candida18"  /></p>
 
 
