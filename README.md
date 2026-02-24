@@ -1,7 +1,6 @@
 <h1>Hi there, I'm Wenderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3>Full Stack Developer (Python, Go, TypeScript) | Computer Scientist | Applied AI</h3>
 
-
 ### ABOUT ME
 
 * 📚 I have a degree in Computer Science
