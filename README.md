@@ -3,6 +3,7 @@
 
 ### ABOUT ME
 
+
 * 📚 I have a degree in Computer Science
 * 👨‍💻 I have 3 years of development experience
 * 📝 Some of my projects are available at [Github](https://github.com/wendersoon?tab=repositories)
