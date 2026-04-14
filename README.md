@@ -11,7 +11,6 @@
 * ❤️ I love technology and learning new things
 * ⭐ I'm passionate about mathematics, logic and philosophy
 * 💬 Ask me about anything tech related, I am happy to help
-* 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/wendersonomelo/)
  
   
 ### Languages:
