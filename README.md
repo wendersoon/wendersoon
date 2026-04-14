@@ -1,11 +1,11 @@
 <h1>Hi there, I'm Wenderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3>Full Stack Developer (Python, Go, TypeScript) | Computer Scientist | Applied AI</h3>
+<h3>Applied AI Engineer | Computer Scientist | (Python, Go, TypeScript) </h3>
 
 ### ABOUT ME
 
 
 * 📚 I have a degree in Computer Science
-* 👨‍💻 I have 3 years of development experience
+* 👨‍💻 I have 5 years of development experience
 * 📝 Some of my projects are available at [Github](https://github.com/wendersoon?tab=repositories)
 * 💪 I like challenges
 * ❤️ I love technology and learning new things
