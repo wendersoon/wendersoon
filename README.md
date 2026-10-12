@@ -1,49 +1,35 @@
-<h1>Hi there, I'm Wenderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3>Applied AI Engineer | FullStack Development | Computer Scientist | (Python, Go, TypeScript) </h3>
+# Hi, I'm Wenderson
 
-### ABOUT ME
+**Full-Stack Engineer & AI Engineer**
 
+Computer scientist with 5 years of experience. I work in technology and use AI to enhance products and processes.
 
-* 📚 I have a degree in Computer Science
-* 👨‍💻 I have 5 years of development experience
-* 📝 Some of my projects are available at [Github](https://github.com/wendersoon?tab=repositories)
-* 💪 I like challenges
-* ❤️ I love technology and learning new things
-* ⭐ I'm passionate about mathematics, logic and philosophy
-* 💬 Ask me about anything tech related, I am happy to help
- 
-  
-### Languages:
+I've built AI agents, MCP servers, RAG systems, process automation and end-to-end software, from back end to front end, among other things.
+
+I write about what I study and what I enjoy at **[wenderson.dev](https://wenderson.dev)**.
+
+### Main stack
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,javascript,css,html" />
+    <img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,django" alt="Go, Python, TypeScript, React, Next.js, Django" />
   </a>
 </p>
 
-### Frameworks and Libraries
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,django,flask,fastapi" />
-  </a>
-</p>
-
-### Databases
+### Also work with
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite" />
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,nginx,linux,git" alt="FastAPI, PostgreSQL, Redis, Docker, Nginx, Linux, Git" />
   </a>
 </p>
 
-### Other Tools
+### Latest writing
 
-<p ">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,nginx,ubuntu,linux,github,vscode" />
-  </a>
-</p>
+- [O que é um agente de IA?](https://wenderson.dev/posts/o-que-e-um-agente-de-ia/) (PT-BR)
+- [Verificação do programa: testes de software e Tripla de Hoare](https://wenderson.dev/posts/tripla-de-hoare/) (PT-BR)
+- [Compreensão de listas vs. expressões geradoras](https://wenderson.dev/posts/listcomps-vs-genexps/) (PT-BR)
 
+### Find me
 
-
-
+[wenderson.dev](https://wenderson.dev) · [LinkedIn](https://www.linkedin.com/in/wendersonomelo)
