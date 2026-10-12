@@ -20,7 +20,7 @@ I write about what I study and what I enjoy at **[wenderson.dev](https://wenders
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,nginx,linux,git" alt="FastAPI, PostgreSQL, Redis, Docker, Nginx, Linux, Git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,fastapi,flask,postgres,mysql,sqlite,redis,docker,nginx,linux,ubuntu,git,github,postman,vscode&perline=9" alt="JavaScript, HTML, CSS, FastAPI, Flask, PostgreSQL, MySQL, SQLite, Redis, Docker, Nginx, Linux, Ubuntu, Git, GitHub, Postman, VS Code" />
   </a>
 </p>
 
