@@ -8,14 +8,6 @@ I've built AI agents, MCP servers, RAG systems, process automation and end-to-en
 
 I write about what I study and what I enjoy at **[wenderson.dev](https://wenderson.dev)**.
 
-### Main stack
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,django" alt="Go, Python, TypeScript, React, Next.js, Django" />
-  </a>
-</p>
-
 ### Latest writing
 
 - [O que é um agente de IA?](https://wenderson.dev/posts/o-que-e-um-agente-de-ia/) (PT-BR)
