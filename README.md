@@ -10,6 +10,7 @@ I write about what I study and what I enjoy at **[wenderson.dev](https://wenders
 
 ### Latest writing
 
+- [Transformers](https://www.wenderson.dev/posts/transformers/) (PT-BR)
 - [O que é um agente de IA?](https://wenderson.dev/posts/o-que-e-um-agente-de-ia/) (PT-BR)
 - [Verificação do programa: testes de software e Tripla de Hoare](https://wenderson.dev/posts/tripla-de-hoare/) (PT-BR)
 - [Compreensão de listas vs. expressões geradoras](https://wenderson.dev/posts/listcomps-vs-genexps/) (PT-BR)
